@@ -18,7 +18,7 @@ img {
 }
 
 table {
-    padding-top: 80px;
+    padding-top: 5vh;
     margin: auto;
     height: 30vh;
     border-spacing: 20px;
@@ -36,9 +36,9 @@ td {
 }
 
 h2 {
-    margin-top: 50px;
-    margin-bottom: 100px;
-    font-size: 2vh;
+    margin-top: 5vh;
+    margin-bottom: 10vh;
+    font-size: 3vh;
     text-transform: uppercase;
     word-spacing: 5px;
 }
